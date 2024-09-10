@@ -2,7 +2,7 @@
  *
  * Created by: Francisco
  * Created on: Sep 2024
- * This program shows "Hello, World"
+ * This program shows "Hello, Francisco"
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Francisco!')
